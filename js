@@ -3,4 +3,5 @@ let p=3;
 function test(x,p){
   return x*p
 }
+console.log(test)
 
